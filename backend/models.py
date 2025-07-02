@@ -1,5 +1,5 @@
 from pydantic import BaseModel, Field, EmailStr
-from typing import Annotated
+from typing import Annotated, Optional
 
 class Customer(BaseModel):
     name: Annotated[str, Field(..., description="Full name of the user")]

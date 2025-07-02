@@ -23,3 +23,10 @@ def register_customer(customer: Customer) -> bool:
     except Exception as e:
         print("Error registering customer:", e)
         return False
+
+def fetch_latest_email():
+    response = supabase.table('onboarding').select("*").order("id", desc=True).limit(1).execute()
+    if response.data:
+        return response.data[0]["email"]
+    return None
+

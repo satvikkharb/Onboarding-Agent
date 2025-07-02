@@ -1,0 +1,45 @@
+2025-06-30 13:04:46,081 | INFO | Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-30 13:05:58,121 | INFO | HTTP Request: POST https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log "HTTP/2 201 Created"
+2025-06-30 13:05:58,274 | INFO | HTTP Request: GET https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log?select=%2A&email=eq.satvikkharb%40gmail.com&order=created_at.asc "HTTP/2 200 OK"
+2025-06-30 13:05:58,276 | INFO | generate_agent_response() was called
+2025-06-30 13:05:59,051 | INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-06-30 13:05:59,072 | INFO | Top chunks: []
+2025-06-30 13:06:02,011 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-30 13:06:05,914 | INFO | HTTP Request: POST https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log "HTTP/2 201 Created"
+2025-06-30 13:50:09,401 | INFO | Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-06-30 13:51:20,451 | INFO | HTTP Request: POST https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log "HTTP/2 201 Created"
+2025-06-30 13:51:20,614 | INFO | HTTP Request: GET https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log?select=%2A&email=eq.satvikkharb%40gmail.com&order=created_at.asc "HTTP/2 200 OK"
+2025-06-30 13:51:20,617 | INFO | generate_agent_response() was called
+2025-06-30 13:51:21,780 | INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-06-30 13:51:21,797 | INFO | Top chunks: []
+2025-06-30 13:51:23,968 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-30 13:51:27,470 | INFO | HTTP Request: POST https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log "HTTP/2 201 Created"
+2025-06-30 13:55:55,440 | INFO | HTTP Request: POST https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log "HTTP/2 201 Created"
+2025-06-30 13:55:55,557 | INFO | HTTP Request: GET https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log?select=%2A&email=eq.satvikkharb%40gmail.com&order=created_at.asc "HTTP/2 200 OK"
+2025-06-30 13:55:55,559 | INFO | generate_agent_response() was called
+2025-06-30 13:55:56,314 | INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-06-30 13:55:56,349 | INFO | Top chunks: []
+2025-06-30 13:55:57,543 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-30 13:56:00,877 | INFO | HTTP Request: POST https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log "HTTP/2 201 Created"
+2025-06-30 13:57:08,645 | INFO | HTTP Request: POST https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log "HTTP/2 201 Created"
+2025-06-30 13:57:08,781 | INFO | HTTP Request: GET https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log?select=%2A&email=eq.satvikkharb%40gmail.com&order=created_at.asc "HTTP/2 200 OK"
+2025-06-30 13:57:08,783 | INFO | generate_agent_response() was called
+2025-06-30 13:57:09,547 | INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-06-30 13:57:09,574 | INFO | Top chunks: []
+2025-06-30 13:57:13,115 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-30 13:57:16,505 | INFO | HTTP Request: POST https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log "HTTP/2 201 Created"
+2025-07-01 12:27:14,156 | INFO | Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-01 12:30:12,543 | INFO | HTTP Request: POST https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log "HTTP/2 201 Created"
+2025-07-01 12:30:12,803 | INFO | HTTP Request: GET https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log?select=%2A&email=eq.satvikkharb%40gmail.com&order=created_at.asc "HTTP/2 200 OK"
+2025-07-01 12:30:12,819 | INFO | generate_agent_response() was called
+2025-07-01 12:30:15,246 | INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-01 12:30:15,301 | INFO | Top chunks: []
+2025-07-01 12:30:22,004 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-01 12:30:27,601 | INFO | HTTP Request: POST https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log "HTTP/2 201 Created"
+2025-07-01 13:19:08,727 | INFO | HTTP Request: POST https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log "HTTP/2 201 Created"
+2025-07-01 13:19:09,051 | INFO | HTTP Request: GET https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log?select=%2A&email=eq.satvikkharb%40gmail.com&order=created_at.asc "HTTP/2 200 OK"
+2025-07-01 13:19:09,054 | INFO | generate_agent_response() was called
+2025-07-01 13:19:10,595 | INFO | HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-07-01 13:19:10,638 | INFO | Top chunks: []
+2025-07-01 13:19:14,822 | INFO | HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-01 13:19:20,105 | INFO | HTTP Request: POST https://qcihqosarmqnicvtafvi.supabase.co/rest/v1/conversation_log "HTTP/2 201 Created"
